@@ -22,12 +22,12 @@ This is the backend API built with Laravel and Sanctum authentication.
 composer install
  ```
 3. **Setup environment file**:
-```
-  cp .env.example .env
-  Configure .env:
-  Set your database details (DB_DATABASE, DB_USERNAME, DB_PASSWORD)
-  Set APP_URL (example: http://localhost:8000)
-```
+
+-  cp .env.example .env
+-  Configure .env:
+- Set your database details (DB_DATABASE, DB_USERNAME, DB_PASSWORD)
+- Set APP_URL (example: http://localhost:8000)
+
 
 4. **Run migrations and seeders**:
 ```bash
