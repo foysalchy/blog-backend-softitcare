@@ -41,3 +41,10 @@ if any issue with seeder please upload menuaaly database.sql file
 ```bash
 php artisan serve
 ```
+6. **Demo Creadentials**:
+- superadmin@gmail.com
+- admin@gmail.com
+- user@gmail.com
+- moderator@gmail.com
+
+- every user password:123456
